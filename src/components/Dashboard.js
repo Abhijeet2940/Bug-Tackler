@@ -120,37 +120,7 @@ export const Dashboard = () => {
         </div>
 
         {/* Status Distribution */}
-        <div className="dashboard-section">
-          <h2>📈 Status Overview</h2>
-          <div className="status-bars">
-            <div className="status-bar">
-              <label>Open</label>
-              <div className="bar-container">
-                <div
-                  className="bar-fill open"
-                  style={{
-                    width: `${totalBugs === 0 ? 0 : (openBugs / totalBugs) * 100}%`,
-                  }}
-                ></div>
-              </div>
-              <span>{openBugs}</span>
-            </div>
-
-            <div className="status-bar">
-              <label>Closed</label>
-              <div className="bar-container">
-                <div
-                  className="bar-fill closed"
-                  style={{
-                    width: `${totalBugs === 0 ? 0 : (closedBugs / totalBugs) * 100}%`,
-                  }}
-                ></div>
-              </div>
-              <span>{closedBugs}</span>
-            </div>
-          </div>
-        </div>
-
+       
         {/* Recent Bugs */}
         <div className="dashboard-section">
           <h2>🐛 Recent Bugs</h2>
