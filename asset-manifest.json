@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bug-Tackler/static/css/main.3c0617fe.css",
+    "main.js": "/Bug-Tackler/static/js/main.88a96fb4.js",
+    "static/js/453.d420b6a2.chunk.js": "/Bug-Tackler/static/js/453.d420b6a2.chunk.js",
+    "index.html": "/Bug-Tackler/index.html",
+    "main.3c0617fe.css.map": "/Bug-Tackler/static/css/main.3c0617fe.css.map",
+    "main.88a96fb4.js.map": "/Bug-Tackler/static/js/main.88a96fb4.js.map",
+    "453.d420b6a2.chunk.js.map": "/Bug-Tackler/static/js/453.d420b6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0617fe.css",
+    "static/js/main.88a96fb4.js"
+  ]
+}
